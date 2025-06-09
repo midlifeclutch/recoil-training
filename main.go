@@ -13,7 +13,7 @@ import (
 func main() {
 
 	var weapon = flag.StringP("weapon", "w", "ak47", "ak47, m4a1, m4a1s")
-	var target = flag.StringP("target", "t", "chest", "head, chest")
+	var target = flag.StringP("target", "t", "chest", "chest, head")
 	var goal = flag.IntP("goal", "g", 95, "Avg% goal")
 	var reset = flag.IntP("reset", "r", 30, "Reset Target value")
 	var distance = flag.IntP("distance", "d", 0, "Target distance")
