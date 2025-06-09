@@ -1,6 +1,6 @@
 # recoil-training
 
-A small utility inspired by [HOW TO IMPROVE SPRAY CONTROL INSTANTLY (CS2 Tutorial)](https://youtu.be/Yh7-vfe7h_Y?si=WDOTn0ndADfPYUCD) by bird.
+A small utility inspired by [HOW TO IMPROVE SPRAY CONTROL INSTANTLY (CS2 Tutorial)](https://youtu.be/Yh7-vfe7h_Y?si=WDOTn0ndADfPYUCD) by bird. [How to MASTER Spray Control in CS:GO & CS2](https://www.youtube.com/watch?v=yHqk5Vgsmok) by EliGE for the "95 55 98 60" average % goals.
 
 ## Options
 
